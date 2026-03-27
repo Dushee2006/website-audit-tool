@@ -9,17 +9,13 @@ The tool analyzes a public webpage URL, extracts objective SEO and UX metrics, t
 
 ## Live Demo
 
-Replace with your deployed URL after deployment:
-
-https://your-vercel-app.vercel.app
+https://website-audit-tool-mocha.vercel.app
 
 ---
 
 ## GitHub Repository
 
-Replace with your repository link:
-
-https://github.com/your-username/eight25-website-audit
+https://github.com/Dushee2006/website-audit-tool
 
 ---
 
@@ -160,8 +156,8 @@ The backend also includes defensive cleanup before parsing the model response:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/eight25-website-audit.git
-cd eight25-website-audit
+git clone https://github.com/Dushee2006/website-audit-tool.git
+cd website-audit-tool
 ```
 
 2. Install dependencies
